@@ -1,7 +1,7 @@
-name:          Code Guide by @mdo
-description:   Standards for developing flexible, durable, and sustainable HTML and CSS.
-url:           http://codeguide.co
+name:          编码规范 by @CrhFIT
+description:   开发灵活，稳定，可维护的 HTML, CSS 和 JavaScript 代码的规范
+url:           http://roshanca.com
 
-markdown:      rdiscount
+markdown:      kramdown
 permalink:     pretty
-pygments:      true
+highlighter:   rouge
