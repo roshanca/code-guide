@@ -80,6 +80,7 @@ p {
 }
 .lead {
   font-size: 1.3rem;
+  margin-bottom: .5rem;
 }
 
 blockquote {
@@ -192,14 +193,14 @@ pre code {
  */
 
 .masthead {
-  padding: 3rem 1rem;
+  padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
   text-align: center;
   background-color: #2a3440;
 }
 .masthead h1 {
   color: #fff;
-  margin-bottom: .25rem;
+  margin-bottom: .5rem;
 }
 .masthead .icon {
   display: inline-block;
@@ -220,8 +221,8 @@ pre code {
 
 @media (min-width: 38em) {
   .masthead {
-    padding-top: 4rem;
-    padding-bottom: 4rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
   }
 }
 
